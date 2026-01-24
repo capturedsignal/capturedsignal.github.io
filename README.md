@@ -1,4 +1,4 @@
-# capturedsignal.github.io
+# Vulnerability response in Microsoft Security tools (Defender XDR, Cloud & EASM)
 
 New vulnerability announcements are a familiar pattern: a CVE drops late on a Friday or during the holidays, a proof of concept quickly follows, and soon after, the vulnerability is reported as actively exploited in the wild. For vulnerability response and security teams, this immediately triggers two critical questions:
 
